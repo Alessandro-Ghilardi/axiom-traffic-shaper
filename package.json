@@ -1,0 +1,23 @@
+{
+    "name": "axiom-traffic-shaper",
+    "version": "1.0.0",
+    "description": "Ultra-lightweight in-memory Rate Limiter for Express/Fastify - protect sensitive endpoints from brute force and DDoS attacks",
+    "main": "index.js",
+    "keywords": [
+        "rate-limiter",
+        "rate-limiting",
+        "express",
+        "fastify",
+        "middleware",
+        "security",
+        "ddos-protection",
+        "brute-force",
+        "in-memory",
+        "devops"
+    ],
+    "author": "Alessandro Ghilardi",
+    "license": "MIT",
+    "engines": {
+        "node": ">=14"
+    }
+}
